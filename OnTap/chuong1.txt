@@ -1,0 +1,19 @@
+#2    	<---- Tổng số câu hỏi của chương này
+1     	<---- Câu hỏi số 1
+abc...	<---- Nội dung câu hỏi số 1
+.4	<---- Tổng số đáp án (định dạng .<số đáp án> )
+A	<---- Nội dung đáp án A
+B	<---- Nội dung đáp án B
+C	<---- Nội dung đáp án C
+D	<---- Nội dung đáp án B
+2     	<---- Câu hỏi số 2
+abc...	<---- Nội dung câu hỏi số 2
+.4	<---- Tổng số đáp án (định dạng .<số đáp án> )
+A	<---- Nội dung đáp án A
+B	<---- Nội dung đáp án B
+C	<---- Nội dung đáp án C
+D	<---- Nội dung đáp án B
+
+-----> *Lưu ý: Đáp án (A,B,C,D) không được là 1 số nguyên duy nhất (chương trình sẽ đọc nó thành stt câu hỏi :v)
+	Lúc chạy chương trình nhớ xóa hướng dẫn
+
